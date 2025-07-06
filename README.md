@@ -7,4 +7,4 @@ By using the linear regression technique to make the model of Model 1: Baseline 
 
 Files:
 1] Ideal_C&A_05.ipynb:THis file depicts the how we trained for each parking area to predict  the price as of by feature selection by "Lasso Technique" nad much more.
-2]
+2] prediction.ipynb:In this w trained the model based on price output of by model 1 and model 2 and here we came to know Random forest has a lead against other model                      as due to Low MSE and High R^2 and we preferred it and made an model which is also saved for use the public.
